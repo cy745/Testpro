@@ -1,0 +1,11 @@
+{
+  "leftDrawerMenu": {
+    "logTips": "Login",
+    "home": "Home",
+    "music": "Music",
+    "room": "Room",
+    "game": "Game",
+    "setting": "Setting"
+  }
+}
+

@@ -1,0 +1,123 @@
+{
+  "frames": {
+    "bg": {
+      "frame": {
+        "x": 25,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 50,
+        "h": 50
+      }
+    },
+    "cloud-25": {
+      "frame": {
+        "x": 75,
+        "y": 0,
+        "w": 83,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 83,
+        "h": 50
+      }
+    },
+    "cloud-75": {
+      "frame": {
+        "x": 0,
+        "y": 50,
+        "w": 125,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 125,
+        "h": 75
+      }
+    },
+    "cloud-100": {
+      "frame": {
+        "x": 0,
+        "y": 125,
+        "w": 166,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 166,
+        "h": 100
+      }
+    },
+    "person": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 25
+      },
+      "sourceSize": {
+        "w": 25,
+        "h": 25
+      }
+    }
+  },
+  "animations": {
+    "cloud": [
+      "cloud-25.svg",
+      "cloud-75.svg",
+      "cloud-100.svg"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "@/assets/things.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 166,
+      "h": 225
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:6dc8836af12251af47f96105de1f1d78:88b87ec5c29706c5d2cfeb6fd572ac89:a7ffc03d719097afff7952cb633fb6e1$"
+  }
+}

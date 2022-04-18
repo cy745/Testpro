@@ -1,0 +1,10 @@
+{
+  "leftDrawerMenu": {
+    "logTips": "请登录",
+    "home": "首页",
+    "music": "音乐",
+    "room": "房间",
+    "game": "游戏",
+    "setting": "设置"
+  }
+}
