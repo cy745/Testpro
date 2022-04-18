@@ -7,7 +7,6 @@
                     wd='64px'></circleSlider>
       <circleSlider :attr.sync="Camera.position.z" lw="4px" max="1000" min="500" rt="113"
                     wd='64px'></circleSlider>
-
     </div>
 
   </div>
@@ -15,11 +14,11 @@
 
 <script>
 import circleSlider from "@/components/circleSlider"
-import * as THREE from "three/build/three.module"
+import * as THREE from "three"
 // import OrbitControls from "three/examples/js/controls/OrbitControls"
 // import FlyControls from "three/examples/js/controls/FlyControls"
 // import DeviceOrientationControls from "three/examples/js/controls/DeviceOrientationControls"
-import FirstPersonControls from "three/examples/js/controls/FirstPersonControls"
+import {FirstPersonControls} from "three/examples/jsm/controls/FirstPersonControls"
 
 import Stats from "stats.js";
 
